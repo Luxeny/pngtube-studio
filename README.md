@@ -27,4 +27,4 @@
 
 ---
 
-Автор — Luxeny. Проект студии [+vibe](https://www.plusvibe.workers.dev).
+Автор — Luxeny. Проект студии [+vibe](https://plusvibestudio.ru).
